@@ -1,2 +1,16 @@
-# Angular-Web-App
-Angular 5 web application sample
+Follow these instructions to install the app and run it
+
+Move to the directory :
+
+cd Angular-Web-App
+
+Install the dependencies
+
+## `npm install`
+
+Run the app on browser
+
+## `Development server`
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
